@@ -29,19 +29,9 @@ My work blends product thinking with engineering execution across:
 
 | Project | Description | Stack |
 |---|---|---|
-| [SplitWise](https://github.com/HusnainAhmed77/SplitWise) | Expense and lending platform built for simplified money flow | TypeScript, Next.js |
 | [Study Manager](https://github.com/HusnainAhmed77/Study-Manager) | Project management and productivity application | TypeScript, Next.js |
 | [Resume Creator](https://github.com/HusnainAhmed77/resume-creator) | Resume builder that exports polished output and emails | Python, UI/Automation |
 
-### Client / Agency Work
-
-| Project | Description | Stack |
-|---|---|---|
-| [ecsksa.com](https://github.com/speedforcedigital/ecsksa.com) | Dynamic business website for a Saudi company | Next.js, Strapi |
-| [sfd-studio](https://github.com/speedforcedigital/sfd-studio) | AI-powered project management studio | Next.js, TypeScript |
-| [rentalforce.app](https://github.com/speedforcedigital/rentalforce.app) | Rental platform application | Next.js, TypeScript |
-| [SettleUp](https://github.com/speedforcedigital/SettleUp) | Expense sharing application | TypeScript, Next.js |
-| [Tallu-Admin-Pannel](https://github.com/speedforcedigital/Tallu-Admin-Pannel) | Administrative dashboard | TypeScript, Next.js |
 
 ---
 
